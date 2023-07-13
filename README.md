@@ -4,4 +4,6 @@ Blessings-Book
 GitLeb  
 https://gitlab.com/DreamWayGH/blessings-book.git
 
-[Live Demo](https://blessings-book.fly.dev)
+[Online Live Demo](https://blessings-book.fly.dev)
+
+[20230701 Offline Demo](https://dreamwaygh.github.io/Blessings-Book/20230701)
